@@ -70,7 +70,7 @@ On the download page, you will be prompted to choose your operating system and s
 
 <br/>
 <p align="center">
-<img width="950" src="images\CVA.jpeg">
+<img width="200" src="images\CVA.jpeg">
 </p>
 
 ***Carl Vincent Alabastro***, student from Palawan State University, with the course of Computer Science, author of [***logApp-Scale-Alabastro***](https://github.com/CarlVincentNAlabastro/logApp-Scale-Alabastro) Github repository.
