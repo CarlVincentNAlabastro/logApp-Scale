@@ -48,6 +48,29 @@ Only users with an admin account can only log in and access the records in Log B
 This is the Person's Log where you can find all of the informations of a users who filled out the registration form. 
 
 
-## Installations
+## :exclamation: Installations :exclamation:
 
-## Authors
+I use the MySql Workbench for my database in my Log Book Application. MySQL Workbench is a visual database design and modeling tool developed by Oracle Corporation. It provides a graphical user interface for designing, testing, and managing MySQL databases.
+
+MySQL Workbench allows users to:
+
+* Design and visually create database schemas
+* Generate SQL scripts from the database schema design
+* Manage database connections and user accounts
+* Perform backups and restores
+* Run queries and view query results
+* And more
+
+MySQL Workbench is available for Windows, macOS, and Linux operating systems. You can download it from the official MySQL website at 
+https://dev.mysql.com/downloads/workbench/.
+
+On the download page, you will be prompted to choose your operating system and select the appropriate version of MySQL Workbench to download. There are also installation instructions available on the page to guide you through the installation process.
+
+## :bowtie: Authors :bowtie:
+
+<br/>
+<p align="center">
+<img width="950" src="images\CVA.jpeg">
+</p>
+
+***Carl Vincent Alabastro***, student from Palawan State University, with the course of Computer Science, author of [***logApp-Scale-Alabastro***](https://github.com/CarlVincentNAlabastro/logApp-Scale-Alabastro) Github repository.
