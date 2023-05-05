@@ -1,1 +1,0 @@
-# logApp-Scale
