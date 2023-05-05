@@ -23,14 +23,30 @@ This Log In Application is a simple web-based tool for allowing users to log in 
 
 <br/>
 <p align="center">
-<img width="950" src="img\registration-form.png">
+<img width="950" src="images\registration-form.png">
 </p>
+
+This image shows the registration form of the Log Book Application. The user must register first in order to record their informations for the Log Book App.
+
+#### Log In Form
+
 <br/>
+<p align="center">
+<img width="950" src="images\log-in.png">
+</p>
 
-This image shows the registration form of the Log Book Application
+Only users with an admin account can only log in and access the records in Log Book App.
+
+#### Person's Log
+
+<br/>
+<p align="center">
+<img width="950" src="images\person's log.png">
+</p>
 
 
-## Visual 
+This is the Person's Log where you can find all of the informations of a users who filled out the registration form. 
+
 
 ## Installations
 
